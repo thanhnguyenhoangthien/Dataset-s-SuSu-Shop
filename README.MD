@@ -3,6 +3,7 @@
 
 
 Là một bộ dữ liệu có chứa một danh sách các mặt hàng được sắp xếp vào một bộ giỏ hàng.
+Dữ liệu được tổng hợp từ phần mềm bán hàng của cửa hàng bao gồm nhiều thông tin và được giản lược lại như sau:
 
   - Ngày giao dịch
   - mã giỏ hàng(Id giao dịch)
